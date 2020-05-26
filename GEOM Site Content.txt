@@ -1,0 +1,14 @@
+GEOM Site Content
+
+--> Home
+    --> Header Mast
+
+        We are an independant
+        strategic creative agency
+        with technology at our core.
+
+    --> Services Summary
+
+        Web Apps - Our development team is experienced in building and maintaining effective web applications. Ruby on Rails and React are our favorite tools to do it. Combining those technologies lets us deliver top quality products fast.
+        Mobile Apps - We develop for both iOS and Android with React Native. If you have an idea, get in touch, and we can scope out your mobile application.
+        UX/UI Design - A great design defines the user experience while driving commercial objectives.

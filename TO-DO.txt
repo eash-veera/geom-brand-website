@@ -1,0 +1,52 @@
+TO-DO
+
+----------------------- Service Categories -----------------------
+
+-> Web Development Service (Page Structure)
+
+1. Header Page with Custom WEBGL [DONE]
+2. Agile Aproach [DONE]
+3. Our goal with this service [DONE]
+4. Build a web product from scratch [DONE] (need to change artwork)
+5. Improve and maintain your existing product
+6. Perform and audit & provide consulting
+7. Tech stack we use
+8. Process we follow
+9. CTA
+
+-> Mobile Development Service (Page Structure)
+
+1. Header Page with Custom WEBGL [DONE] (Need to change shape)
+2. Custom mobile app development [DONE]
+3. Improve and maintain your existing product [DONE]
+5. Process we follow (combine para from build a mobile with heading from development process at a glance)
+    -> Need to develop a slider with following topics
+        -> Discovery Call
+        -> Estimation Workshop
+        -> Roadmap Planning
+        -> Product Launch
+        -> Maintenance and Support
+6. CTA
+
+-> UI / UX Development Service (Page Structure)
+
+1. Header Page with Custom WEBGL [DONE] (Need to change shape)
+2. We belive in human-centered design [PENDING] (philosophy behind process)
+3. Great UX design in wehere art and science meet (approach behind process) [PENDING]
+4. Process we follow
+    -> Need to develop a slider with following topics
+        -> Product Definition
+        -> Product Research
+        -> Analysis
+        -> Design - Low/Medium fidelity
+        -> High fidelity design
+6. CTA
+
+
+----------------------- Case Studies -----------------------
+
+-> 12thDoor 
+-> Watchit.lk
+-> Earthly
+-> Millijoin
+-> Pantheone 
